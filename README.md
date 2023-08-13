@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Hi+There!+👋;+I'm+Soykan+Saydam;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Hi+There!+👋;+I'm+Soykan;" />
 </h2>
 
 <h3 align="center">I'm Backend Software Developer</h3>
