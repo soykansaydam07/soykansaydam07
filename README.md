@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **E-Ticaret Apps**
  
- 🌱 I’m currently learning **Redis, RabbitMq, Microservice Architecture**
+ 🌱 I’m currently learning **AngularJS , Microservice and Monolithic Architecture**
 
  📫 How to reach me: **soykansaydam1@gmail.com**
  
